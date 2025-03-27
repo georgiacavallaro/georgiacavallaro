@@ -40,6 +40,14 @@ Durante este período estudando Ciência de Dados participei de dois **Hackatons
 - Linux Essentials _(na fila)_;
 - Go Essentials _(na fila)_.
 
+## 💡 Entre em contato comigo, estou certa de que podemos criar soluções inteligentes e eficazes juntos!
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/georgia-cavallaro/) ✉ georgia.alexa@outlook.com
+
+### Um pouco do que posso agregar ao seu time 📈
+
+Aqui apresento meus principais projetos e a história por trás de cada um:
+
 <!---
 georgiacavallaro/georgiacavallaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
