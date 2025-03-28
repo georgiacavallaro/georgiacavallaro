@@ -2,9 +2,15 @@
 
 # Me chamo Georgia Cavallaro
 
-Já trabalhei por 7 anos como Arquiteta **fazendo** e **gerenciando projetos**, por 3 anos **gerenciei construções diferenciadas** de hospedagens-experiência e nos últimos 2 anos venho **administrando** estas hospedagens. Sou **EMPRETECA**! Estou acostumada _(e gosto!)_ de mergulhar no desconhecido e **implementar** **soluções** inovadoras e **criativas**!
+<div style="text-align: justify;">
+Já trabalhei por 7 anos como Arquiteta <strong>fazendo</strong> e <strong>gerenciando projetos</strong>, por 3 anos <strong>gerenciei construções diferenciadas</strong> de hospedagens-experiência e nos últimos 2 anos venho <strong>administrando</strong> estas hospedagens. Sou <strong>EMPRETECA</strong>! Estou acostumada <em>(e gosto!)</em> de mergulhar no desconhecido e <strong>implementar</strong> <strong>soluções</strong> inovadoras e <strong>criativas</strong>!
+</div>
 
-Durante este período gerenciando hospedagens e **atendendo pessoas** reavivou em mim uma paixão de adolescência por **tecnologia** e lidar com **código**, seja para **facilitar processos**, ou mesmo **criar** algo de uma forma melhor, o que me levou a fazer parte do Bootcamp de Ciência de Dados da [TripleTen Brasil](https://tripleten.com/pt-bra/data-scientist/meet/), que é um curso de nove meses no qual aprendi todas as etapas que envolvem Dados em algum projeto:
+<div style="text-align: justify;">
+Durante este período gerenciando hospedagens e <strong>atendendo pessoas</strong> reavivou em mim uma paixão de adolescência por <strong>tecnologia</strong> e lidar com <strong>código</strong>, seja para <strong>facilitar processos</strong>, ou mesmo <strong>criar</strong> algo de uma forma melhor, o que me levou a fazer parte do Bootcamp de Ciência de Dados da <a href="https://tripleten.com/pt-bra/data-scientist/meet/">TripleTen Brasil</a>, que é um curso de nove meses no qual aprendi todas as etapas que envolvem Dados em algum projeto:
+</div>
+
+
 - ⛏ Extração _(com **Python** e **SQL**)_;
 - 🧹 Limpeza e tratamento dos dados _(com **Python, Pandas** e **Numpy**)_;
 - 👩‍💻 Engenharia de características _(com **Pandas** e **Numpy**)_;
