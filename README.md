@@ -52,7 +52,15 @@ Durante este período estudando Ciência de Dados participei de dois **Hackatons
 
 ### Um pouco do que posso agregar ao seu time 📈
 
-Aqui apresento meus principais projetos e a história por trás de cada um:
+Aqui apresento meus principais projetos e um pouco sobre cada um:
+
+- ### **[*Machine Learning* para Previsão de Churn em Telecomunicações](https://github.com/georgiacavallaro/ml_previsao_de_churn_telecomunicacoes)**
+  - **Sobre o projeto:** *Projeto de **Machine Learning** de uma empresa fictícia de telecomunicações. Foi desenvolvido como a entrega final do curso de *Cientista de Dados da Tripleten* e tem como objetivo demonstrar na prática os conhecimentos adquiridos durante o curso.*
+    
+    ***Métrica principal de avaliação:** AUC-ROC > 0.75 <br>
+    **Métrica alcançada:** AUC-ROC=0.89*
+    
+  - **Ferramentas utilizadas:** *Jupyter Notebbok • Python • Zipfile • Pandas • Numpy • Itertools • Matplotlib • Seaborn • Sklearn • CatBoost • Timeit • Tqdm • CUDA • VsCode*
 
 <!---
 georgiacavallaro/georgiacavallaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
